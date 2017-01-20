@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { AppComponent2 } from './app.comp2.ts'
+import { AppComponent2 } from './app.comp2'
 
 @Component({
   selector: 'my-app',
